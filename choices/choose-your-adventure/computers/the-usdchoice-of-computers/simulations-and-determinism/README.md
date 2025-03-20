@@ -14,7 +14,7 @@ layout:
 
 # 👩🏾‍💻 𝚂𝚒𝚖𝚞𝚕𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝙳𝚎𝚝𝚎𝚛𝚖𝚒𝚗𝚒𝚜𝚖
 
-<figure><img src="../../../../.gitbook/assets/pexels-btgl-♡-11409380.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-11409380.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
